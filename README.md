@@ -2,11 +2,11 @@
 
 it's a receipe app as simple design
 
-  View products by category in a REST API.
-  Navigate between pages.
-  View a waiting animation during page transitions.
-  View an error animation during page transitions.![3](https://user-images.githubusercontent.com/104502236/226168580-9c126c26-0b2d-412b-ad3e-479233fab06f.jpg)
-
+  # View products by category in a REST API.
+  # Navigate between pages.
+  # View a waiting animation during page transitions.
+  # View an error animation during page transitions.
+  
 THESE ARE THE SCREENSHOST FROM APP
 
 ![1](https://user-images.githubusercontent.com/104502236/226168574-54362bd9-873d-4f83-b7d9-2e72472cc75e.jpg)
